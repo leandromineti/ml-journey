@@ -1,6 +1,6 @@
 # Machine Learning Journey
 
-This repository is a curated list of free learning resources on topics related to Machine Learning. 
+This repository contains a curated list of free learning resources on topics related to Machine Learning. 
 I tend to favor materials that explain concepts visually and promote a hands-on learning experience. 
 The references are organized as follows:
 - Math & Stats
