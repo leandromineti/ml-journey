@@ -75,4 +75,5 @@ A curated list of free learning resources. The references are organized as follo
 
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
 - [Feature Engineering: Discover the most effective way to improve your models](https://www.kaggle.com/learn/feature-engineering)
+- [Machine Learning Explainability: Extract human-understandable insights from any machine learning model](https://www.kaggle.com/learn/machine-learning-explainability)
 - [Deep Learning from the Foundations](https://course.fast.ai/part2)
