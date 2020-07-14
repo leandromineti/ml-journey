@@ -47,4 +47,4 @@ Choose a language, R or Python, and learn how to use jupyter notebooks. Learn th
 
 ### Time series
 
-- To do
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
