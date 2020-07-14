@@ -16,8 +16,10 @@ Choose a language, R or Python, and learn how to use jupyter notebooks. Learn th
 - [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 - [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 
-## Statistics
+## Math & Stats
 
+- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Seeing Theory](https://seeing-theory.brown.edu/)
 
 ## Machine Learning
