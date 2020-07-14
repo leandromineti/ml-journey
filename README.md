@@ -12,9 +12,15 @@ A curated list of free learning resources.
 
 Choose a language, R or Python, and learn how to use jupyter notebooks. Learn the basics and improve as you go.
 
-- [fasteR: fast lane to learning R!](https://github.com/matloff/fasteR)
+### Python
+
 - [Learn Python: free interactive python tutorial](https://www.learnpython.org/)
+- [Python programming: learn python in one video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
 - [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
+
+### R
+
+- [fasteR: fast lane to learning R!](https://github.com/matloff/fasteR)
 
 ## Math & Stats
 
