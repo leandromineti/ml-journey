@@ -46,6 +46,10 @@ The references are organized as follows:
 
 - [MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 
+### Git
+
+- [Learn Git branching](https://learngitbranching.js.org/)
+
 ### Cloud
 
 - [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/Curriculum?id=27076&scr=path-cp)
