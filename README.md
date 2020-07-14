@@ -1,8 +1,12 @@
 # Machine Learning Journey
 
+A curated list of free learning resources.
+
 ## Concepts
 
-- [Artificial Intelligence: a concise conceptual introduction](https://towardsdatascience.com/artificial-intelligence-d1e45efc99b4).
+- [Artificial Intelligence: a concise conceptual introduction](https://towardsdatascience.com/artificial-intelligence-d1e45efc99b4)
+- [A visual introduction to machine learning - I](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [A visual introduction to machine learning - II](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
 ## Programming
 
