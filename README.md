@@ -17,9 +17,9 @@ The references are organized as follows:
 
 ## Math & Stats
 
-- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Gilbert Strang lectures on Linear Algebra - MIT](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
-- [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Gilbert Strang lectures on Linear Algebra - MIT](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+- [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Seeing Theory](https://seeing-theory.brown.edu/)
 - [Introduction to computational thinking for Data Science - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 
