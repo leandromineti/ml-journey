@@ -5,6 +5,7 @@ A curated list of free learning resources. The references are organized as follo
 - Computing
   - Python
   - R
+  - SQL
   - Cloud
 - Machine Learning
   - Fundamentals
