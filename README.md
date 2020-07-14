@@ -1,6 +1,6 @@
 # Machine Learning Journey
 
-This repository contains a curated list of free learning resources on topics related to Machine Learning. 
+This repository contains a curated list of **free** learning resources on topics related to Machine Learning. 
 I tend to favor materials that explain concepts visually and promote a hands-on learning experience. 
 The references are organized as follows:
 - Math & Stats
@@ -18,8 +18,10 @@ The references are organized as follows:
 ## Math & Stats
 
 - [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Gilbert Strang lectures on Linear Algebra - MIT](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
 - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Seeing Theory](https://seeing-theory.brown.edu/)
+- [Introduction to computational thinking for Data Science - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 
 ## Computing
 
@@ -64,6 +66,7 @@ The references are organized as follows:
 
 - [Natural Language Processing: Distinguish yourself by learning to work with text data](https://www.kaggle.com/learn/natural-language-processing)
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
+- [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html)
 
 #### Computer vision
 
