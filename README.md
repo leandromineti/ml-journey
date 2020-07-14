@@ -21,6 +21,7 @@ Choose a language, R or Python, and learn how to use jupyter notebooks. Learn th
 ### R
 
 - [fasteR: fast lane to learning R!](https://github.com/matloff/fasteR)
+- [R for Data Science](https://r4ds.had.co.nz/)
 
 ## Math & Stats
 
