@@ -19,8 +19,6 @@ A curated list of free learning resources. The references are organized as follo
 
 ## Computing
 
-Learn the basics of programming in R or Python and expose yourself to basic concepts in cloud computing. 
-
 ### Python
 
 - [Learn Python: free interactive python tutorial](https://www.learnpython.org/)
@@ -31,6 +29,12 @@ Learn the basics of programming in R or Python and expose yourself to basic conc
 
 - [fasteR: fast lane to learning R!](https://github.com/matloff/fasteR)
 - [R for Data Science](https://r4ds.had.co.nz/)
+
+### SQL
+
+- [Intro to SQL: Learn SQL for working with databases, using Google BigQuery to scale to massive datasets](https://www.kaggle.com/learn/intro-to-sql)
+- [Advanced SQL: Take your SQL skills to the next level](https://www.kaggle.com/learn/advanced-sql)
+- [The SQL Tutorial for Data Analysis](https://mode.com/sql-tutorial/introduction-to-sql/)
 
 ### Cloud
 
@@ -50,6 +54,7 @@ Learn the basics of programming in R or Python and expose yourself to basic conc
 
 #### Natural Language Processing
 
+- [Natural Language Processing: Distinguish yourself by learning to work with text data](https://www.kaggle.com/learn/natural-language-processing)
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 #### Computer vision
@@ -63,4 +68,5 @@ Learn the basics of programming in R or Python and expose yourself to basic conc
 ### Digging deeper
 
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+- [Feature Engineering: Discover the most effective way to improve your models](https://www.kaggle.com/learn/feature-engineering)
 - [Deep Learning from the Foundations](https://course.fast.ai/part2)
