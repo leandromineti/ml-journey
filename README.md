@@ -6,6 +6,7 @@ A curated list of free learning resources. The references are organized as follo
   - Python
   - R
   - SQL
+  - NoSQL
   - Cloud
 - Machine Learning
   - Fundamentals
@@ -36,6 +37,10 @@ A curated list of free learning resources. The references are organized as follo
 - [Intro to SQL: Learn SQL for working with databases, using Google BigQuery to scale to massive datasets](https://www.kaggle.com/learn/intro-to-sql)
 - [Advanced SQL: Take your SQL skills to the next level](https://www.kaggle.com/learn/advanced-sql)
 - [The SQL Tutorial for Data Analysis](https://mode.com/sql-tutorial/introduction-to-sql/)
+
+### NoSQL
+
+- [MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 
 ### Cloud
 
