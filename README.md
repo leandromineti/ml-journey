@@ -9,10 +9,12 @@ The references are organized as follows:
   - R
   - SQL
   - NoSQL
+  - Git
   - Cloud
 - Machine Learning
   - Fundamentals
   - Data-specific resources
+  - Model-specific resources
   - Digging deeper
 
 ## Math & Stats
