@@ -42,7 +42,7 @@ The references are organized as follows:
 
 - [Intro to SQL: Learn SQL for working with databases, using Google BigQuery to scale to massive datasets - Kaggle](https://www.kaggle.com/learn/intro-to-sql) - Interactive tutorial.
 - [Advanced SQL: Take your SQL skills to the next level - Kaggle](https://www.kaggle.com/learn/advanced-sql) - Interactive tutorial.
-- [The SQL Tutorial for Data Analysis - Mode](https://mode.com/sql-tutorial/introduction-to-sql/) - Interactive tutorial.
+- [The SQL Tutorial for Data Analysis - Mode](https://mode.com/sql-tutorial/introduction-to-sql/) - Tutorial.
 
 ### NoSQL
 
