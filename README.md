@@ -8,9 +8,15 @@ A curated list of free learning resources.
 - [A visual introduction to machine learning - I](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [A visual introduction to machine learning - II](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
-## Programming
+## Math & Stats
 
-Choose a language, R or Python, and learn how to use jupyter notebooks. Learn the basics and improve as you go.
+- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Seeing Theory](https://seeing-theory.brown.edu/)
+
+## Computing
+
+Learn the basics of programming in R or Python and expose yourself to basic concepts in cloud computing. 
 
 ### Python
 
@@ -23,11 +29,9 @@ Choose a language, R or Python, and learn how to use jupyter notebooks. Learn th
 - [fasteR: fast lane to learning R!](https://github.com/matloff/fasteR)
 - [R for Data Science](https://r4ds.had.co.nz/)
 
-## Math & Stats
+### Cloud
 
-- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Seeing Theory](https://seeing-theory.brown.edu/)
+- [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/Curriculum?id=27076&scr=path-cp)
 
 ## Machine Learning
 
