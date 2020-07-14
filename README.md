@@ -1,12 +1,15 @@
 # Machine Learning Journey
 
-A curated list of free learning resources.
-
-## Concepts
-
-- [Artificial Intelligence: a concise conceptual introduction](https://towardsdatascience.com/artificial-intelligence-d1e45efc99b4)
-- [A visual introduction to machine learning - I](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [A visual introduction to machine learning - II](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
+A curated list of free learning resources. The references are organized as follows:
+- Math & Stats
+- Computing
+  - Python
+  - R
+  - Cloud
+- Machine Learning
+  - Fundamentals
+  - Data-specific resources
+  - Digging deeper
 
 ## Math & Stats
 
@@ -35,20 +38,29 @@ Learn the basics of programming in R or Python and expose yourself to basic conc
 
 ## Machine Learning
 
+### Fundamentals
+
+- [Artificial Intelligence: a concise conceptual introduction](https://towardsdatascience.com/artificial-intelligence-d1e45efc99b4) 
+- [A visual introduction to machine learning - I](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
+- [A visual introduction to machine learning - II](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/) 
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
-- [Deep Learning from the Foundations](https://course.fast.ai/part2)
 
-## Data-specific resources
+### Data-specific resources
 
-### Natural Language Processing
+#### Natural Language Processing
 
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
-### Computer vision
+#### Computer vision
 
 - To do 
 
-### Time series
+#### Time series
 
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+
+### Digging deeper
+
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+- [Deep Learning from the Foundations](https://course.fast.ai/part2)
