@@ -63,6 +63,7 @@ The references are organized as follows:
 - [Artificial Intelligence: a concise conceptual introduction - TDS](https://towardsdatascience.com/artificial-intelligence-d1e45efc99b4) - Article.
 - [A visual introduction to machine learning I - R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Article.
 - [A visual introduction to machine learning II - R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/) - Article.
+- [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course) - Course.
 - [Introduction to Machine Learning for Coders - fast.ai](http://course18.fast.ai/ml) - Course.
 - [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/) - Course.
 
