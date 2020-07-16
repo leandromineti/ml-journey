@@ -15,6 +15,7 @@ The references are organized as follows:
   - Fundamentals
   - Data-specific resources
   - Model-specific resources
+  - Application-specific resources
   - Digging deeper
 
 ## Math & Stats
@@ -90,6 +91,12 @@ The references are organized as follows:
 - [Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Playlist.
 - [Neural Networks and Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/) - Book.
 - [Deep Learning from the Foundations - fast.ai](https://course.fast.ai/part2) - Course.
+
+### Application-specific resources
+
+#### Recommender systems
+
+- [How does Netflix recommend movies? Matrix Factorization - Luis Serrano](https://www.youtube.com/watch?v=ZspR5PZemcs) - Video.
 
 ### Digging deeper
 
