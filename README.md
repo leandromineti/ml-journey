@@ -20,6 +20,7 @@ The references are organized as follows:
 
 ## Math & Stats
 
+- [Khan Academy](https://www.khanacademy.org/) - Fundamental Math courses.
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Playlist.
 - [Gilbert Strang lectures on Linear Algebra - MIT](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - Playlist.
 - [Essence of Calculus - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - Playlist.
