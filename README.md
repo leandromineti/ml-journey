@@ -115,7 +115,7 @@ The references are organized as follows:
 #### Other cool resources
 
 - [Papers with code](https://www.paperswithcode.com/): reproducible research. Yay!
-- [ArXiv Sanity](http://www.arxiv-sanity.com/): keep your sanity while sifting through ArXiv. The 'top hype' tab is pretty cool.
+- [ArXiv Sanity Preserver](http://www.arxiv-sanity.com/): keep your sanity while sifting through ArXiv. The 'top hype' tab is pretty cool.
 - [Data Elixir](https://dataelixir.com/): great Data Science newsletter.
 - [The Batch](https://www.deeplearning.ai/thebatch/): a newsletter from Andrew Ng!
 - [Artificial Intelligence Podcast](https://lexfridman.com/ai/): nice conversations about AI.
