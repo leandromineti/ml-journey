@@ -102,6 +102,20 @@ The references are organized as follows:
 
 ### Digging deeper
 
+#### Feature engineering
+
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models - Max Khun](https://bookdown.org/max/FES/) - Book.
 - [Feature Engineering: Discover the most effective way to improve your models - Kaggle](https://www.kaggle.com/learn/feature-engineering) - Interactive tutorial.
+
+#### Interpretable Machine Learning
+
 - [Machine Learning Explainability: Extract human-understandable insights from any machine learning model - Kaggle](https://www.kaggle.com/learn/machine-learning-explainability) - Interactive tutorial.
+- [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable - Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) - Book.
+
+#### Other cool resources
+
+- [Papers with code](https://www.paperswithcode.com/): reproducible research. Yay!
+- [ArXiv Sanity](http://www.arxiv-sanity.com/): keep your sanity while sifting through ArXiv. The 'top hype' tab is pretty cool.
+- [Data Elixir](https://dataelixir.com/): great Data Science newsletter.
+- [The Batch](https://www.deeplearning.ai/thebatch/): a newsletter from Andrew Ng!
+- [Artificial Intelligence Podcast](https://lexfridman.com/ai/): nice conversations about AI.
