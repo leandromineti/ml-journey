@@ -27,6 +27,9 @@ The references are organized as follows:
 - [The Matrix Calculus You Need For Deep Learning - Explained.ai](https://explained.ai/matrix-calculus/index.html) - Article.
 - [Seeing Theory - Brown University](https://seeing-theory.brown.edu/) - Interactive book.
 - [Introduction to computational thinking for Data Science - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) - Playlist.
+- [Introduction to Applied Linear Algebra - Boyd & Vandenberghe](http://vmls-book.stanford.edu/) - Book.
+- [Mathematics for Machine Learning - Deisenroth *et al*](https://mml-book.github.io/) - Book.
+- [Computer Age Statistical Inference - Efron & Hastie](https://web.stanford.edu/~hastie/CASI/) - Book.
 
 ## Computing
 
@@ -70,6 +73,7 @@ The references are organized as follows:
 - [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course) - Course.
 - [Introduction to Machine Learning for Coders - fast.ai](http://course18.fast.ai/ml) - Course.
 - [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/) - Course.
+- [The Elements of Statistical Learning - Hastie *et al*](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book.
 
 ### Data-specific resources
 
