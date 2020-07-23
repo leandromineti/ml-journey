@@ -4,6 +4,10 @@ This repository contains a curated collection of **free** learning resources on 
 I tend to favor materials that explain concepts visually and promote a hands-on learning experience. 
 The references are organized as follows:
 - Math & Stats
+  - Fundamentals
+  - Linear Algebra
+  - Calculus
+  - Statistics
 - Computing
   - Python
   - R
@@ -20,15 +24,27 @@ The references are organized as follows:
 
 ## Math & Stats
 
+### Fundamentals
+
 - [Khan Academy](https://www.khanacademy.org/) - Fundamental Math courses.
+- [Introduction to computational thinking for Data Science - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) - Playlist.
+- [Mathematics for Machine Learning - Deisenroth *et al*](https://mml-book.github.io/) - Book.
+
+### Linear Algebra
+
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Playlist.
 - [Gilbert Strang lectures on Linear Algebra - MIT](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - Playlist.
+- [Introduction to Applied Linear Algebra - Boyd & Vandenberghe](http://vmls-book.stanford.edu/) - Book.
+
+### Calculus
+
 - [Essence of Calculus - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - Playlist.
 - [The Matrix Calculus You Need For Deep Learning - Explained.ai](https://explained.ai/matrix-calculus/index.html) - Article.
+
+### Statistics
+
 - [Seeing Theory - Brown University](https://seeing-theory.brown.edu/) - Interactive book.
-- [Introduction to computational thinking for Data Science - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) - Playlist.
-- [Introduction to Applied Linear Algebra - Boyd & Vandenberghe](http://vmls-book.stanford.edu/) - Book.
-- [Mathematics for Machine Learning - Deisenroth *et al*](https://mml-book.github.io/) - Book.
+- [Probabilistic Programming & Bayesian Methods for Hackers - Davidson-Pilon](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book.
 - [Computer Age Statistical Inference - Efron & Hastie](https://web.stanford.edu/~hastie/CASI/) - Book.
 
 ## Computing
