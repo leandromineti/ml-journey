@@ -73,6 +73,7 @@ The references are organized as follows:
 
 ### Git
 
+- [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) - Article.
 - [Learn Git branching](https://learngitbranching.js.org/) - Interactive tutorial.
 
 ### Cloud
