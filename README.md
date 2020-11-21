@@ -44,6 +44,7 @@ The references are organized as follows:
 ### Statistics
 
 - [Seeing Theory - Brown University](https://seeing-theory.brown.edu/) - Interactive book.
+- [Probability Cheatsheet - William Chen](https://github.com/wzchen/probability_cheatsheet) - Cheatsheet.
 - [Probabilistic Programming & Bayesian Methods for Hackers - Davidson-Pilon](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book.
 - [Computer Age Statistical Inference - Efron & Hastie](https://web.stanford.edu/~hastie/CASI/) - Book.
 
