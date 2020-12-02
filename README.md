@@ -76,6 +76,7 @@ The references are organized as follows:
 
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) - Article.
 - [Learn Git branching](https://learngitbranching.js.org/) - Interactive tutorial.
+- [Git Internals - Learn by building your own Git](https://www.leshenko.net/p/ugit/) - Interactive tutorial.
 
 ### Cloud
 
