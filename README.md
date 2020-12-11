@@ -56,6 +56,7 @@ The references are organized as follows:
 - [Python programming: learn python in one video - Derek Banas](https://www.youtube.com/watch?v=N4mEzFDjqtA) - Live coding.
 - [Python Magical Universe - Anna-Lena Popkes](http://alpopkes.com/portfolio/portfolio-3/) - Interactive course.
 - [Reproducible Data Analysis in Jupyter - Jake VanderPlas](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/) - Playlist.
+- [Microsoft Learn for NASA]https://docs.microsoft.com/en-us/learn/topics/nasa) - Tutorials.
 
 ### R
 
