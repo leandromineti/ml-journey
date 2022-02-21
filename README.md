@@ -90,7 +90,9 @@ The references are organized as follows:
 - [Artificial Intelligence: a concise conceptual introduction - TDS](https://towardsdatascience.com/artificial-intelligence-d1e45efc99b4) - Article.
 - [A visual introduction to machine learning I - R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Article.
 - [A visual introduction to machine learning II - R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/) - Article.
+- [Making Friends with Machine Learning - Cassie Kozyrkov](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG) - Course.
 - [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course) - Course.
+- [Machine Learning for Beginners - Microsoft](https://microsoft.github.io/ML-For-Beginners/#/) - Course.
 - [Introduction to Machine Learning for Coders - fast.ai](http://course18.fast.ai/ml) - Course.
 - [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/) - Course.
 - [The Elements of Statistical Learning - Hastie *et al*](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book.
